@@ -1,2 +1,2 @@
 # Thinkful-Pizza
-Pizza page from Thinkful prep course -- simple HTML/CSS demo
+Bootcamp prep-course exercise: a simple HTML/CSS demo
